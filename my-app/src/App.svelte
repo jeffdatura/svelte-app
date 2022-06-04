@@ -1,11 +1,11 @@
-<link rel="stylesheet" href="../public/css/style.css">
 <script>
-  let name = 'jeff'
-  import Other from "./Other.svelte"
+  let name = "jeff ECCO";
+  import Other from "./Other.svelte";
 </script>
+
+<link rel="stylesheet" href="../public/css/style.css" />
 
 <main>
   <h1>Hello {name}</h1>
-  <Other/>
+  <Other />
 </main>
-
